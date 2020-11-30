@@ -18,3 +18,4 @@ Pytanie 2-2-1: "W jaki sposób można określić czas trwania opóźnienia zreal
 Odpowiedź: Poprzez zmianę wartości "i".
 Wykonano zadanie 2-2-2
 Wykonano zadanie 2-2-3
+Wykonano zadanie 2-2-4
