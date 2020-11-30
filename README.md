@@ -20,3 +20,4 @@ Wykonano zadanie 2-2-2
 Wykonano zadanie 2-2-3
 Wykonano zadanie 2-2-4
 Wykonano zadanie 2-3-1
+Wykonano zadanie 2-3-2
