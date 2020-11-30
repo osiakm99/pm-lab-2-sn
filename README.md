@@ -16,3 +16,5 @@ Grupa studencka: WEL18DE1S1
 
 Pytanie 2-2-1: "W jaki sposób można określić czas trwania opóźnienia zrealizowanego z użyciem pętli?"
 Odpowiedź: Poprzez zmianę wartości "i".
+Wykonano zadanie 2-2-2
+Wykonano zadanie 2-2-3
